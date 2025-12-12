@@ -1,0 +1,189 @@
+----------------------------------------
+
+--- EPOCH 5 SUMMARY --- | Time: 1096.74 sec.
+
+  Training Loss (Focal): 0.0331
+
+  Validation Loss (Focal): 0.0220
+
+  Average ROC AUC: 0.7859
+
+----------------------------------------
+
+New best model! Average AUC: -1.0000 -> 0.7859
+
+
+----------------------------------------
+
+--- EPOCH 6 SUMMARY --- | Time: 1098.50 sec.
+
+  Training Loss (Focal): 0.0306
+
+  Validation Loss (Focal): 0.0227
+
+  Average ROC AUC: 0.7813
+
+----------------------------------------
+
+
+----------------------------------------
+
+--- EPOCH 7 SUMMARY --- | Time: 1097.02 sec.
+
+  Training Loss (Focal): 0.0286
+
+  Validation Loss (Focal): 0.0230
+
+  Average ROC AUC: 0.7792
+
+----------------------------------------
+
+--- EPOCH 8 SUMMARY --- | Time: 1100.54 sec.
+
+  Training Loss (Focal): 0.0150
+
+  Validation Loss (Focal): 0.0141
+
+  Average ROC AUC: 0.7815
+
+----------------------------------------
+
+
+----------------------------------------
+
+--- EPOCH 9 SUMMARY --- | Time: 1106.84 sec.
+
+  Training Loss (Focal): 0.0141
+
+  Validation Loss (Focal): 0.0152
+
+  Average ROC AUC: 0.7747
+
+----------------------------------------
+
+
+----------------------------------------
+
+--- EPOCH 10 SUMMARY --- | Time: 1098.09 sec.
+
+  Training Loss (Focal): 0.0134
+
+  Validation Loss (Focal): 0.0155
+
+  Average ROC AUC: 0.7773
+
+----------------------------------------
+
+
+----------------------------------------
+
+--- EPOCH 11 SUMMARY --- | Time: 1099.53 sec.
+
+  Training Loss (Focal): 0.0128
+
+  Validation Loss (Focal): 0.0145
+
+  Average ROC AUC: 0.7786
+
+----------------------------------------
+
+Epoch 00005: reducing learning rate of group 0 to 1.0000e-06.
+
+
+----------------------------------------
+
+--- EPOCH 12 SUMMARY --- | Time: 1099.60 sec.
+
+  Training Loss (Focal): 0.0123
+
+  Validation Loss (Focal): 0.0159
+
+  Average ROC AUC: 0.7732
+
+----------------------------------------
+
+
+----------------------------------------
+
+--- EPOCH 13 SUMMARY --- | Time: 1099.91 sec.
+
+  Training Loss (Focal): 0.0117
+
+  Validation Loss (Focal): 0.0153
+
+  Average ROC AUC: 0.7730
+
+--- EPOCH 14 SUMMARY --- | Time: 1102.57 sec.
+
+  Training Loss (Focal): 0.0113
+
+  Validation Loss (Focal): 0.0155
+
+  Average ROC AUC: 0.7733
+
+----------------------------------------
+
+
+----------------------------------------
+
+--- EPOCH 15 SUMMARY --- | Time: 1103.60 sec.
+
+  Training Loss (Focal): 0.0112
+
+  Validation Loss (Focal): 0.0152
+
+  Average ROC AUC: 0.7717
+
+----------------------------------------
+
+
+----------------------------------------
+
+--- EPOCH 16 SUMMARY --- | Time: 1102.71 sec.
+
+  Training Loss (Focal): 0.0110
+
+  Validation Loss (Focal): 0.0163
+
+  Average ROC AUC: 0.7757
+
+----------------------------------------
+
+
+----------------------------------------
+
+--- EPOCH 17 SUMMARY --- | Time: 1100.10 sec.
+
+  Training Loss (Focal): 0.0109
+
+  Validation Loss (Focal): 0.0157
+
+  Average ROC AUC: 0.7717
+
+----------------------------------------
+
+
+----------------------------------------
+
+--- EPOCH 18 SUMMARY --- | Time: 1102.28 sec.
+
+  Training Loss (Focal): 0.0108
+
+  Validation Loss (Focal): 0.0157
+
+  Average ROC AUC: 0.7741
+
+----------------------------------------
+
+
+----------------------------------------
+
+--- EPOCH 19 SUMMARY --- | Time: 1103.16 sec.
+
+  Training Loss (Focal): 0.0108
+
+  Validation Loss (Focal): 0.0156
+
+  Average ROC AUC: 0.7749
+
+----------------------------------------
